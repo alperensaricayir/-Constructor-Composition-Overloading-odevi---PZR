@@ -1,0 +1,14 @@
+C:\Users\memos\OneDrive\Masaüstü\generic-classes-and-methods\generic-classes-and-methods\bin\Debug\net8.0\generic-classes-and-methods.exe
+C:\Users\memos\OneDrive\Masaüstü\generic-classes-and-methods\generic-classes-and-methods\bin\Debug\net8.0\generic-classes-and-methods.deps.json
+C:\Users\memos\OneDrive\Masaüstü\generic-classes-and-methods\generic-classes-and-methods\bin\Debug\net8.0\generic-classes-and-methods.runtimeconfig.json
+C:\Users\memos\OneDrive\Masaüstü\generic-classes-and-methods\generic-classes-and-methods\bin\Debug\net8.0\generic-classes-and-methods.dll
+C:\Users\memos\OneDrive\Masaüstü\generic-classes-and-methods\generic-classes-and-methods\bin\Debug\net8.0\generic-classes-and-methods.pdb
+C:\Users\memos\OneDrive\Masaüstü\generic-classes-and-methods\generic-classes-and-methods\obj\Debug\net8.0\generic-classes-and-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memos\OneDrive\Masaüstü\generic-classes-and-methods\generic-classes-and-methods\obj\Debug\net8.0\generic-classes-and-methods.AssemblyInfoInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\generic-classes-and-methods\generic-classes-and-methods\obj\Debug\net8.0\generic-classes-and-methods.AssemblyInfo.cs
+C:\Users\memos\OneDrive\Masaüstü\generic-classes-and-methods\generic-classes-and-methods\obj\Debug\net8.0\generic-classes-and-methods.csproj.CoreCompileInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\generic-classes-and-methods\generic-classes-and-methods\obj\Debug\net8.0\generic-classes-and-methods.dll
+C:\Users\memos\OneDrive\Masaüstü\generic-classes-and-methods\generic-classes-and-methods\obj\Debug\net8.0\refint\generic-classes-and-methods.dll
+C:\Users\memos\OneDrive\Masaüstü\generic-classes-and-methods\generic-classes-and-methods\obj\Debug\net8.0\generic-classes-and-methods.pdb
+C:\Users\memos\OneDrive\Masaüstü\generic-classes-and-methods\generic-classes-and-methods\obj\Debug\net8.0\generic-classes-and-methods.genruntimeconfig.cache
+C:\Users\memos\OneDrive\Masaüstü\generic-classes-and-methods\generic-classes-and-methods\obj\Debug\net8.0\ref\generic-classes-and-methods.dll

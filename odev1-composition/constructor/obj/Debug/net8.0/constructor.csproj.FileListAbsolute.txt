@@ -1,0 +1,14 @@
+C:\Users\memos\OneDrive\Masaüstü\constructor\constructor\bin\Debug\net8.0\constructor.exe
+C:\Users\memos\OneDrive\Masaüstü\constructor\constructor\bin\Debug\net8.0\constructor.deps.json
+C:\Users\memos\OneDrive\Masaüstü\constructor\constructor\bin\Debug\net8.0\constructor.runtimeconfig.json
+C:\Users\memos\OneDrive\Masaüstü\constructor\constructor\bin\Debug\net8.0\constructor.dll
+C:\Users\memos\OneDrive\Masaüstü\constructor\constructor\bin\Debug\net8.0\constructor.pdb
+C:\Users\memos\OneDrive\Masaüstü\constructor\constructor\obj\Debug\net8.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memos\OneDrive\Masaüstü\constructor\constructor\obj\Debug\net8.0\constructor.AssemblyInfoInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\constructor\constructor\obj\Debug\net8.0\constructor.AssemblyInfo.cs
+C:\Users\memos\OneDrive\Masaüstü\constructor\constructor\obj\Debug\net8.0\constructor.csproj.CoreCompileInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\constructor\constructor\obj\Debug\net8.0\constructor.dll
+C:\Users\memos\OneDrive\Masaüstü\constructor\constructor\obj\Debug\net8.0\refint\constructor.dll
+C:\Users\memos\OneDrive\Masaüstü\constructor\constructor\obj\Debug\net8.0\constructor.pdb
+C:\Users\memos\OneDrive\Masaüstü\constructor\constructor\obj\Debug\net8.0\constructor.genruntimeconfig.cache
+C:\Users\memos\OneDrive\Masaüstü\constructor\constructor\obj\Debug\net8.0\ref\constructor.dll
